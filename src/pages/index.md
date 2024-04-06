@@ -57,7 +57,7 @@ connections:
 ---
 
 <!-- Your About Me section -->
-Hi <Image src="/wave.gif" width="15" height="15"><Image>, I'm a students that is currently coding as his passion/
+Hi <Image src="/wave.gif" width="15" height="15"><Image>, I'm a student that's currently coding as his hobby
 
 I mostly work with [backend develompent](https://github.com/gamersindo1223), making bots and small projects. My passion is tech so most of the projects I work on are open-source. Some projects are meant to automate my life, some are meant to express my curiosity about tech.
 
